@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T13:44:27 IST" name="Default suite" finished-at="2023-02-07T13:44:33 IST" duration-ms="6658">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T13:44:27 IST" name="Default test" finished-at="2023-02-07T13:44:33 IST" duration-ms="6658">
+      <class name="pomTestCases.VerifyWordPressLogin">
+        <test-method signature="verifyValisLogin()[pri:0, instance:pomTestCases.VerifyWordPressLogin@10959ece]" started-at="2023-02-07T13:44:27 IST" name="verifyValisLogin" finished-at="2023-02-07T13:44:33 IST" duration-ms="6611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValisLogin -->
+      </class> <!-- pomTestCases.VerifyWordPressLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
